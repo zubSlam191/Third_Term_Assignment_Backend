@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: getstarted-springboot
+Implementation-Version: 1.0
+Built-By: Zubair Slamdien
+Implementation-Vendor-Id: boxfuse-getstarted
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_92
+Main-Class: getstarted.springboot.GetstartedSpringbootApplication
+
